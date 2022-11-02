@@ -11,3 +11,26 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
 Text Domain:  astrachildtheme
 */
+@font-face {
+    font-family: 'CarlsbergSans';
+    src: url(font/Carlsberg\ Sans\ Bold.ttf);
+}
+@font-face {
+    font-family: 'CarlsbergLight';
+    src: url(font/Carlsberg\ Sans\ Light.ttf);
+}
+h4 {
+    font-family: "CarlsbergSans", sans-serif !important;
+}
+
+header {
+    font-family: "CarlsbergLight", sans-serif !important;
+}
+
+p {
+    font-family: "CarlsbergLight", sans-serif !important;
+}
+
+footer {
+    font-family: "CarlsbergBold", sans-serif !important;
+}
