@@ -34,3 +34,8 @@ p {
 footer {
     font-family: "CarlsbergBold", sans-serif !important;
 }
+
+#mindebox {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+}
+
